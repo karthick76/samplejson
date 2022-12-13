@@ -1,5 +1,5 @@
 {
-  "LightLogo":[{ "https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Light-Logo.png"}],
-  "DarkLogo": [{"https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Dark-Logo.png"}],
-  "BannerImg": [{""}]
+  "LightLogo":[{"LightLogo": "https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Light-Logo.png"}],
+  "DarkLogo": [{"DarkLogo":"https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Dark-Logo.png"}],
+  "BannerImg": [{"BannerImg":""}]
 }
