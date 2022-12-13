@@ -1,0 +1,21 @@
+{
+  "LightLogo": "https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Light-Logo.png",
+  "DarkLogo": "https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Dark-Logo.png",
+  "BannerImg": "",
+  "NotificationText": {
+    "Title": "Switch your default search engine to Microsoft Bing in Chrome.",
+    "Description": "You will get: \n     -   Earn Microsoft Rewards points when you search\n     -   Visually rich and fast results\n     -   Bing Service installed to improve search experience",
+    "PrivacyandAccept": {
+      "AcceptButtonText": "Yes",
+      "Privacy": [
+        "By clicking on \"Yes\", you agree to the ",
+        "Microsoft service agreement",
+        "and",
+        "Privacy policy",
+        "."
+      ]
+    },
+    "RejectButtonText": "Dont Switch",
+    "CheckBoxText": ""
+  }
+}
