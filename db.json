@@ -1,5 +1,9 @@
 {
-  "LightLogo":[{"LightLogo": "https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Light-Logo.png"}],
-  "DarkLogo": [{"DarkLogo":"https://bingwallpaperimages.blob.core.windows.net/bwapp/images/MSB-Dark-Logo.png"}],
-  "BannerImg": [{"BannerImg":""}]
+  "Games":[
+	{
+	  "id":1,
+	  "date":"14/12/2022",
+	  "image":"https://wallpaperaccess.com/full/1637248.jpg"
+	}
+  ]
 }
